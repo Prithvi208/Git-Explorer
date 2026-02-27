@@ -1,4 +1,4 @@
-## WEBSITE LINK :- gitprofilerepofinder.netlify.app
+## WEBSITE LINK :- https://gitprofilerepofinder.netlify.app/
 #  GitHub Profile & Repository Explorer
 
 A modern web application that allows users to search and explore GitHub profiles with advanced UI effects, analytics, and smart search suggestions.
